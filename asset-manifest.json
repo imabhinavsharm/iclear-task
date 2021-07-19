@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/iclear-task/static/css/main.40d46141.chunk.css",
+    "main.js": "/iclear-task/static/js/main.2bb2a9b2.chunk.js",
+    "main.js.map": "/iclear-task/static/js/main.2bb2a9b2.chunk.js.map",
+    "runtime-main.js": "/iclear-task/static/js/runtime-main.4e369a63.js",
+    "runtime-main.js.map": "/iclear-task/static/js/runtime-main.4e369a63.js.map",
+    "static/css/2.4be38407.chunk.css": "/iclear-task/static/css/2.4be38407.chunk.css",
+    "static/js/2.131445ca.chunk.js": "/iclear-task/static/js/2.131445ca.chunk.js",
+    "static/js/2.131445ca.chunk.js.map": "/iclear-task/static/js/2.131445ca.chunk.js.map",
+    "static/js/3.47eeb7a5.chunk.js": "/iclear-task/static/js/3.47eeb7a5.chunk.js",
+    "static/js/3.47eeb7a5.chunk.js.map": "/iclear-task/static/js/3.47eeb7a5.chunk.js.map",
+    "index.html": "/iclear-task/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/iclear-task/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.40d46141.chunk.css.map": "/iclear-task/static/css/main.40d46141.chunk.css.map",
+    "static/js/2.131445ca.chunk.js.LICENSE.txt": "/iclear-task/static/js/2.131445ca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e369a63.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.131445ca.chunk.js",
+    "static/css/main.40d46141.chunk.css",
+    "static/js/main.2bb2a9b2.chunk.js"
+  ]
+}
